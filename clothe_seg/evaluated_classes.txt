@@ -1,0 +1,17 @@
+background
+shirt, blouse
+top, t-shirt, sweatshirt
+sweater
+jacket
+pants
+shorts
+skirt
+dress
+glasses
+tie
+tights, stockings
+shoe
+collar
+lapel
+sleeve
+neckline

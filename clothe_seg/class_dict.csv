@@ -1,0 +1,48 @@
+name,r,g,b
+background,0,0,0
+"shirt, blouse",128,0,0
+"top, t-shirt, sweatshirt",0,128,0
+sweater,128,128,0
+cardigan,0,0,128
+jacket,128,0,128
+vest,0,128,128
+pants,128,128,128
+shorts,64,0,0
+skirt,192,0,0
+coat,64,128,0
+dress,192,128,0
+jumpsuit,64,0,128
+cape,192,0,128
+glasses,64,128,128
+hat,192,128,128
+"headband, head covering, hair accessory",0,64,0
+tie,128,64,0
+glove,0,192,0
+watch,128,192,0
+belt,0,64,128
+leg warmer,128,64,128
+"tights, stockings",0,192,128
+sock,128,192,128
+shoe,64,64,0
+"bag, wallet",192,64,0
+scarf,64,192,0
+umbrella,192,192,0
+hood,64,64,128
+collar,192,64,128
+lapel,64,192,128
+epaulette,192,192,128
+sleeve,0,0,64
+pocket,128,0,64
+neckline,0,128,64
+buckle,128,128,64
+zipper,0,0,192
+applique,128,0,192
+bead,0,128,192
+bow,128,128,192
+flower,64,0,64
+fringe,192,0,64
+ribbon,64,128,64
+rivet,192,128,64
+ruffle,64,0,192
+sequin,192,0,192
+tassel,64,128,192

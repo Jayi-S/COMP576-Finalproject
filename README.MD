@@ -42,7 +42,7 @@ Folder  `labels` has  clothe samples.
 
 Folder `clabels` contains color label images. It' s not used to train or test, it's just for visualization.
 
-We put the dataset under this project. So you can use it directly.
+We put part of dataset under this project. So you can use it directly.
 
 ### Training
 

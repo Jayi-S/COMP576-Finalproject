@@ -1,4 +1,5 @@
 Comp576 final Project:  clothing segmatation
+
 Teammates: Jiayi Song & Hongtao Yang
 
 ## Installation

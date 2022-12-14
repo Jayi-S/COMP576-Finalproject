@@ -72,7 +72,7 @@ python predict.py --model UNet --base_model VGG16 --num_classes 47 --weights che
 
 The predicting results will be under folder `predictions`
 
-If you have other trained models, you can ag
+If you wanna change other trained models, you can ag
 
 ### Testing
 
